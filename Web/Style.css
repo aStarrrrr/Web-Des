@@ -1,0 +1,17 @@
+/* button{
+    color: #fff;
+    background: blue;
+/* } */
+/* button{
+    background-color: white;
+    color: black;
+    border: 2px solid #04AA6D;
+} */
+button{
+    transition-duration: 0.4s;
+  }
+  
+  button:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+  }
