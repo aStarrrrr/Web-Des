@@ -1,0 +1,33 @@
+.outer-div{
+    background-color: aqua;
+    width: 680px;
+    height: 350px;
+}
+.box1{
+    width: 45%;
+    height: 30%;
+    background-color: red;
+    float: left;
+    margin: 10px;
+}
+.box2{
+    width: 45%;
+    height: 30%;
+    background-color: green;
+    float: left;
+    margin: 10px;
+}
+.box3{
+    width: 45%;
+    height: 30%;
+    background-color: yellow;
+    float: left;
+    margin: 10px;
+}
+.box4{
+    width: 45%;
+    height: 30%;
+    background-color: blue;
+    float: left;
+    margin: 10px;
+}

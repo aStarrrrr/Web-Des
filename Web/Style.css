@@ -27,3 +27,25 @@ button{
 #title2{
     color: chartreuse;
 }
+
+.outer-box{
+    width: 446px;
+    height: 234px;
+    background-color: gray;
+    color: #1c2024;
+    border: 4px solid;
+    border-color: #1cc3d0;
+    margin-top: 30px;
+    margin-left: 26px;
+    padding-left: 10px;
+    padding-top: 1px;
+}
+
+.inner-box{
+    width: 200px;
+    height: 140px;
+    background-color: darkslategray;
+    margin-left: 10px;
+    padding-left: 22px;
+    padding-top: 1px;
+}
