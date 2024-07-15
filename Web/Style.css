@@ -15,3 +15,15 @@ button{
     background-color: #04AA6D; /* Green */
     color: white;
   }
+
+  #title{
+    color: blueviolet;
+  }
+
+.content{
+    color: darkred;
+}
+
+#title2{
+    color: chartreuse;
+}
